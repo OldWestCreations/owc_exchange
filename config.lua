@@ -28,7 +28,7 @@ Config.Text = {
 
 Config.Webhook = {
     Enabled = true,
-    Url = "https://discord.com/api/webhooks/1355078316889083904/CbjknDyv4Fy0ArGDLmxSrszufdsPXN5M7JpDhAr2U2MH-DL7K6R4s_4QpuN0JEXwtMN3",
+    Url = "YOUR_DISCORD_WEBHOOK",
     Title = "Currency Exchange", -- name of webhook
     Color = 16753920, -- ex. yellow-orange
     Name = "OWC Currency Exchange",
