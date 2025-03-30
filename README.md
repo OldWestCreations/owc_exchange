@@ -26,7 +26,7 @@ Convert Dollars to Gold and vice versa using prompts and UI inputs at multiple l
 
 - [vorp_core](https://github.com/VORPCORE/VORP-Core)
 - [vorp_inputs](https://github.com/VORPCORE/vorp_inputs)
-- [bcc-utils](https://github.com/BryceCanyonCounty/bcc-utils)
+- bcc-utils
 
 ---
 
