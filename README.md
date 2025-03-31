@@ -41,7 +41,7 @@ Convert Dollars to Gold and vice versa using prompts and UI inputs at multiple l
    ```cfg
    ensure vorp_core
    ensure vorp_inputs
-   ensure bcc-utils
+   ensure vorp_utils
    ensure owc_currencyexchange
    ```
 
@@ -117,7 +117,7 @@ Feel free to modify it to suit your needs — but do not resell.
 ## 🙌 Credits
 
 - Script by [HerrScaletta]
-- Special thanks to VORP and BCC
+- Special thanks to VORP and Outsider
 
 ---
 
