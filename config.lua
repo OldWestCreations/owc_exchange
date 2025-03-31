@@ -18,17 +18,17 @@ Config.ExchangeRate = {
 Config.Text = {
     DollarToGoldPrompt = "Exchange Dollar to Gold",
     GoldToDollarPrompt = "Exchange Gold to Dollar",
-    InputTitle = "Currency Exchange",
-    InputDollarToGold = "How many Dollars would you like to exchange?",
-    InputGoldToDollar = "How many Gold would you like to exchange?",
-    NotEnoughCurrency = "You don't have enough money for this.",
+    PromptGroupLabel = "Currency Exchange",
+    InputDollarToGold = "How many Dollars do you want to exchange?",
+    InputGoldToDollar = "How much Gold do you want to exchange?",
+    InvalidAmount = "Please enter a valid number.",
     SuccessExchange = "Exchange successful!",
-    InvalidAmount = "Invalid amount.",    
+    NotEnoughCurrency = "You don’t have enough currency for this."
 }
 
 Config.Webhook = {
     Enabled = true,
-    Url = "YOUR_DISCORD_WEBHOOK",
+    Url = "https://discord.com/api/webhooks/1355078316889083904/CbjknDyv4Fy0ArGDLmxSrszufdsPXN5M7JpDhAr2U2MH-DL7K6R4s_4QpuN0JEXwtMN3",
     Title = "Currency Exchange", -- name of webhook
     Color = 16753920, -- ex. yellow-orange
     Name = "OWC Currency Exchange",
