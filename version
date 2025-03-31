@@ -1,3 +1,6 @@
+<1.0.2>
+- removed bcc-utils depencity
+- changed bcc-utils to vorp_utils
 <1.0.1>
 - versioncheck test
 - update fxmanifest & version
