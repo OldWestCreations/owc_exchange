@@ -14,7 +14,7 @@ Convert Dollars to Gold and vice versa using prompts and UI inputs at multiple l
 
 - 🔁 Two-way conversion: **Dollar ↔ Gold**
 - 📍 Supports **multiple exchange locations**
-- 🎮 `G` key prompt interaction via **bcc-utils**
+- 🎮 `G` key prompt interaction via **vorp_utils**
 - 🧾 Clean input interface using **vorp_inputs**
 - 🌍 Fully translatable (`config.lua`)
 - 📡 Optional **Discord webhook logging** with rich details
@@ -26,7 +26,7 @@ Convert Dollars to Gold and vice versa using prompts and UI inputs at multiple l
 
 - [vorp_core](https://github.com/VORPCORE/VORP-Core)
 - [vorp_inputs](https://github.com/VORPCORE/vorp_inputs)
-- bcc-utils
+- [vorp_utils](https://github.com/VORPCORE/vorp_utils)
 
 ---
 
